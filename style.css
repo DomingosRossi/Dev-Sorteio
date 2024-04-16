@@ -45,6 +45,10 @@ input {
     margin-right: 62px;
 }
 
+.result {
+    color: #FFFFFF;
+}
+
 button {
     background: rgba(214, 10, 27, 0.884);
     box-shadow: 0px 18px 40px #f00404;
