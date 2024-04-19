@@ -75,3 +75,27 @@ button:active {
     background: #0af31e;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 750px) {
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+    img {
+        width: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;  
+    }
+
+    input {
+        width: 110px;
+        padding-left: 15px;
+        font-size: 35px;
+    }
+}
