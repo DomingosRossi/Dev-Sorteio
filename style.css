@@ -46,7 +46,9 @@ input {
 }
 
 .result {
-    color: #FFFFFF;
+    color: #0af31e;
+    font-weight: 500;
+    font-size: 45px;
 }
 
 button {
@@ -59,6 +61,7 @@ button {
     font-weight: 700;
     font-size: 36px;
     margin-top: 80px;
+    margin-bottom: 10px;
     border: none;
     cursor: pointer;
 }
